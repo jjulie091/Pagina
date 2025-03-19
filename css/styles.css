@@ -435,7 +435,6 @@ hr.separator-sm {
 .text-green {color: var(--color--green);}
 .text-hero {font-size: xx-large;}
 .hero{
-   font-family: 'Bebas Neue', cursive;
    display: flex;
    text-align: center;
    align-items: center;
@@ -775,7 +774,6 @@ p {
    background-position: top;
    background-repeat: no-repeat;
    background-size: contain;
-   font-family: 'Bebas Neue', cursive;
    font-size: 7vw;
    line-height: 8vw;
 }
